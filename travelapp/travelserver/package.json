@@ -1,0 +1,22 @@
+{
+  "name": "travelserver",
+  "version": "1.0.0",
+  "description": "Server for travel",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badrinarayan-R83/myapps.git"
+  },
+  "keywords": [
+    "travel"
+  ],
+  "author": "Badri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badrinarayan-R83/myapps/issues"
+  },
+  "homepage": "https://github.com/badrinarayan-R83/myapps#readme"
+}
